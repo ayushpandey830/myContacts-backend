@@ -1,2 +1,2 @@
 # myContacts-backend
-This is a backend project which helps in CRUD for contacts, which is User based. 
+This project guides you through building a Contact Management App using Node.js, Express, MongoDB, and JWT authentication. It covers user authentication and API protection too.
